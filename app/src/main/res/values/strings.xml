@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="iv_photograph_content_description">Imagem do contato</string>
+    <string name="firstOptionTitle">Número de contatos</string>
+    <string name="secondOptionTitle">Sobre...</string>
+
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+
+    <string name="contact_name">Nome do contato:</string>
+    <string name="contact_phone">(99) 99999-9999</string>
+</resources>
